@@ -8,6 +8,7 @@
 - interested in Embedded Systems and IOT<br/>
 - embedded programmer wannabe
 - VIETTEL please notice me😳<br/>
+- Japan Master willing
 ---
 ### Amateur in 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>

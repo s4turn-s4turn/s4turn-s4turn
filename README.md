@@ -7,7 +7,7 @@
 - 💻 amateur dev<br/>
 - interested in Embedded Systems and IOT<br/>
 - embedded programmer wannabe
-- VIETTEL please notice me😳<br/>
+- VIETTEL, Bosch please notice me😳<br/>
 - Japan Master willing
 ---
 ### Amateur in 

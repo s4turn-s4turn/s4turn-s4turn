@@ -3,12 +3,12 @@
 ---
 
 ### About me
-- 🎓 Student in UET - VNU, major : Computer Engineering<br/>
+- 🎓 Engineer in UET - VNU, major : Computer Engineering<br/>
 - 💻 amateur dev<br/>
 - interested in Embedded Systems and IOT<br/>
-- embedded programmer wannabe
+- embedded programmer wannabe ??
 - VIETTEL, Bosch please notice me😳<br/>
-- Japan Master willing
+- Japan Master willing (Tokyo Uni, Chiba Tech or watever)
 ---
 ### Amateur in 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>

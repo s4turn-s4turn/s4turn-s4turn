@@ -2,7 +2,7 @@
 
 ---
 
-### About me
+### currently me
 - 🎓 Engineer in UET - VNU, major : Computer Engineering<br/>
 - 💻 amateur dev<br/>
 - interested in Embedded Systems and IOT<br/>
